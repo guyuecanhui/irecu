@@ -1,3 +1,4 @@
-# My Awesome Book
+# 推荐系统理论与实践
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本书将以推荐系统，尤其是视频推荐为主线，介绍相关的论文与技术，并介绍这些技术在实践中的效果以及调优过程。
+
