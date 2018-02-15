@@ -2,7 +2,27 @@
     "author" : "hucheng",
     "generator": "site",
     "title": IRecU,
-
-
+    "language" : "zh-hans",
+    "plugins": [
+        "disqus",
+        "-search",
+        "search-pro",
+        "katex",
+        "include-codeblock",
+        "splitter",
+        "baidu"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "gitbookuse"
+        },
+        "search-pro": {
+            "cutWordLib": "nodejieba",
+            "defineWord" : ["Gitbook Use"]
+        },
+        "baidu": {
+            "token": "YOUR TOKEN"
+        }
+    }
     
 }
