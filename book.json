@@ -4,7 +4,6 @@
     "title": "IRecU",
     "language" : "zh-hans",
     "plugins": [
-        "katex",
         "include-codeblock",
         "splitter",
         "disqus",
