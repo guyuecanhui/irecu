@@ -16,9 +16,9 @@
             "shortName": "gitbookuse"
         },
         "fontsettings": {
-            "theme": 'sepia', // 'sepia', 'night' or 'white',
-            "family": 'serif', // 'serif' or 'sans',
-            "size": 3         // 1 - 4
+            "theme": 'sepia',
+            "family": 'serif',
+            "size": 3
         }
     }
     
