@@ -7,11 +7,18 @@
         "katex",
         "include-codeblock",
         "splitter",
-        "baidu"
+        "disqus",
+        "ace",
+        "-fontsettings"
     ],
     "pluginsConfig": {
-        "baidu": {
-            "token": "wheflkjhiuh238ur92iojnkdjshg87fu2bkdjh"
+        "disqus": {
+            "shortName": "gitbookuse"
+        },
+        "fontsettings": {
+            "theme": 'sepia', // 'sepia', 'night' or 'white',
+            "family": 'serif', // 'serif' or 'sans',
+            "size": 3         // 1 - 4
         }
     }
     
