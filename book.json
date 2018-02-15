@@ -1,7 +1,7 @@
 {
     "author" : "hucheng",
     "generator": "site",
-    "title": IRecU,
+    "title": "IRecU",
     "language" : "zh-hans",
     "plugins": [
         "disqus",
