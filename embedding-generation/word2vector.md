@@ -38,5 +38,5 @@ Mikolov等人提出了两种模型（CBOW和Skip-gram）、两种目标函数（
 
 \[2\] Mikolov T, Sutskever I, Chen K, et al. Distributed representations of words and phrases and their compositionality\[C\]//Advances in neural information processing systems. 2013: 3111-3119.
 
-\[3\] peghoty. word2vec 中的数学原理详解. [http://www.cnblogs.com/peghoty/p/3857839.html](http://www.cnblogs.com/peghoty/p/3857839.html).
+\[3\] peghoty. [word2vec 中的数学原理详解](http://www.cnblogs.com/peghoty/p/3857839.html).
 
