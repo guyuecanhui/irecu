@@ -21,7 +21,7 @@ Mark Levy在RecSys 2013指出，很多情况下用户会很明显的感到一个
 
 ## 参考文献：
 
-\[1\] [Don't look stupid.](https://buildingrecommenders.wordpress.com/2016/02/01/dont-look-stupid/\)
+[1] [Don't look stupid.](https://buildingrecommenders.wordpress.com/2016/02/01/dont-look-stupid)
 
-\[2\] [京东个性化推荐系统持续优化的奥秘.](https://www.csdn.net/article/2015-04-15/2824476\)
+[2] [京东个性化推荐系统持续优化的奥秘.](https://www.csdn.net/article/2015-04-15/2824476)
 

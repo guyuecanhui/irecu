@@ -9,7 +9,8 @@
         "splitter",
         "disqus",
         "ace",
-        "-fontsettings"
+        "-fontsettings",
+        "tbfed-pagefooter"
     ],
     "pluginsConfig": {
         "disqus": {
@@ -19,7 +20,9 @@
             "theme": "sepia",
             "family": "serif",
             "size": 3
+        },
+        "tbfed-pagefooter": {
+            "copyright":"Copyright &copy <a href=mailto:hucheng9@huawei.com>胡诚</a> 2017-2018"
         }
-    }
-    
+    }   
 }
